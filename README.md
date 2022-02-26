@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @canotf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @canotf  
+请前往Gitee.com关注canotf或aecode组织,github停止更新  
+地址:[canotf](https://gitee.com/canotf)  
+地址:[aecode](https://gitee.com/aecode)
 
-<!---
-canotf/canotf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
